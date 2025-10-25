@@ -1,4 +1,4 @@
-# Notes-Of-Crash-Course-Computer-Science
+# 计算机速成课的笔记
 该仓库中的笔记为个人学习时所作，使用Obsidian记录，笔记中的图片对应链接可能存在问题。
 
 
